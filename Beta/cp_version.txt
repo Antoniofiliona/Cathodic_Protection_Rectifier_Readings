@@ -1,0 +1,1 @@
+1.0.2,2025 July 29,"Fixed critical bug in data processing and added new reporting feature. Interface improvements for Section B.",Cathodic Protection Rectifier Readings - 1.0.2.xlsm
