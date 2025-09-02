@@ -1,1 +1,1 @@
-1.0.1,2025 July 15,"Fixed critical bug in data processing and added new reporting feature. Interface improvements for Section B.",Cathodic Protection Rectifier Readings - 1.0.1.xlsm
+1.0.4,2025 September 02,"Added multiple fields/rect/targets",Cathodic Protection Rectifier Readings - 1.0.4.xlsm
